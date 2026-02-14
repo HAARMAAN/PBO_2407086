@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         system.out.printly(x: "praktikum 1")
+        system.out.printly(x: "praktikum 3")
     }
 }
