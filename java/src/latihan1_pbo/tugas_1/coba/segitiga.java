@@ -1,4 +1,4 @@
-package latihan1_pbo.latihan4.coba;
+package latihan1_pbo.tugas_1.coba;
 
 public class segitiga extends bangundatar{
     public double luassegitiga() {

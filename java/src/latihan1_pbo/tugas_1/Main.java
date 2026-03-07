@@ -1,10 +1,10 @@
-package latihan1_pbo.latihan4;
+package latihan1_pbo.tugas_1;
 
 import java.util.Scanner;
-import latihan1_pbo.latihan4.coba.jajargenjang;
-import latihan1_pbo.latihan4.coba.persegi;
-import latihan1_pbo.latihan4.coba.persegipanjang;
-import latihan1_pbo.latihan4.coba.segitiga;
+import latihan1_pbo.tugas_1.coba.jajargenjang;
+import latihan1_pbo.tugas_1.coba.persegi;
+import latihan1_pbo.tugas_1.coba.persegipanjang;
+import latihan1_pbo.tugas_1.coba.segitiga;
 
 public class Main {
     public static void main(String[] args) {
