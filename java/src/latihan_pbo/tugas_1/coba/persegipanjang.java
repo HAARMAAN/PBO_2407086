@@ -1,4 +1,4 @@
-package latihan1_pbo.tugas_1.coba;
+package latihan_pbo.tugas_1.coba;
 
 public class persegipanjang extends bangundatar{
     public double kelilingpersegipanjang() {

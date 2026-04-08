@@ -1,4 +1,4 @@
-package latihan1_pbo.latihan3.coba;
+package latihan_pbo.latihan3.coba;
 
 public class coba {
     protected double panjang;

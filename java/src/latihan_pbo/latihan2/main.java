@@ -1,4 +1,4 @@
-package latihan1_pbo.latihan2;
+package latihan_pbo.latihan2;
 
 class Cafe {
     String nama;
@@ -19,7 +19,7 @@ class Cafe {
 }
 
 public class main {
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
 
         Cafe cafe1 = new Cafe("Halaman", "Indramayu");
         cafe1.buka();
