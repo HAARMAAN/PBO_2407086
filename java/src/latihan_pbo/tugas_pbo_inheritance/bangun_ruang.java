@@ -8,6 +8,11 @@ public class bangun_ruang extends bangun_datar {
         this.tinggi = tinggi;
     }
 
+     @Override
+    public double hitungLuas() {
+        return (getPanjang() * getLebar()) * 2;
+    }
+
     public double hitungVolume() {
         return hitungLuas() * tinggi;
     }
