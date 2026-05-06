@@ -4,7 +4,7 @@ public class Menu extends MenuItem {
     int jumlah;
 
     public Menu(String nama, double harga, int jumlah) {
-        super(nama, harga); // Manggil constructor MenuItem
+        super(nama, harga); 
         this.jumlah = jumlah;
     }
 

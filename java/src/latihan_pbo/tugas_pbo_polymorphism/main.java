@@ -7,7 +7,7 @@ public class main {
 
         daftarBangun[0] = new bangundatar(3.0, 4.0);
         daftarBangun[1] = new persegi(5.0);
-        daftarBangun[2] = new persegipanjang(6.0, 4.0); // Sesuaikan jika nama filenya persegipanjang
+        daftarBangun[2] = new persegipanjang(6.0, 4.0); 
         daftarBangun[3] = new segitiga(10.0, 5.0);
 
         for (bangundatar bd : daftarBangun) {

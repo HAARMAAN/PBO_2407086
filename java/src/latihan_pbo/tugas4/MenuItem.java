@@ -9,7 +9,6 @@ public class MenuItem {
         this.harga = harga;
     }
 
-    // WAJIB ADA INI BIAR BISA DI-OVERRIDE
     public void tampilkan() {
     }
 }
